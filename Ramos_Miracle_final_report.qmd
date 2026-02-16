@@ -29,7 +29,7 @@ citation-location: margin
 
 ## Github Repo Link
 
-[Miracle's GitHub Repo Link (miracleramos2025)](https://github.com/stat301-2-2025-winter/final-project-2-miracleramos2025.git)
+[Miracle's GitHub Repo Link (miracleramos2025)](https://github.com/miracleramos2025/final-project-2-site.git)
 
 :::
 
