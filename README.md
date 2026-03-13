@@ -1,7 +1,7 @@
 # Final Project - Data Science 1 with R (STAT 301-2)
 
 ## Final Report
-The final report is available here: [View Final Report (HTML)](https://miracleramos2025.github.io/nyc-airbnb-price-prediction/Miracle_Ramos_final_report.html)
+The final report is available here: [View Final Report (HTML)](https://miracleramos2025.github.io/nyc-airbnb-price-prediction/Ramos_Miracle_final_report.html)
 
 ## Overview
 This project aims to develop a predictive model for forecasting Airbnb rental prices in New York City. The analysis includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation.
